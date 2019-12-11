@@ -1,0 +1,106 @@
+{
+    "data": {
+        "recommend": [
+            {
+                "id": "1",
+                "url": "//img10.360buyimg.com/n2/s370x370_jfs/t1/34640/29/10752/70752/5cf49c25E36e70a18/5639ea3642319c3a.jpg!q70.jpg",
+                "title": "雅诗兰黛（Estee Lauder）口红倾慕唇膏333干枫叶红 3.5g/支",
+                "text": "310"
+            },
+            {
+                "id": "2",
+                "url": "//img11.360buyimg.com/n2/s370x370_jfs/t1/76000/9/12624/139808/5da04ab5E5b4c790b/192236eee7671cb6.jpg!q70.jpg",
+                "title": "【专柜正品】雅诗兰黛（Estee Lauder）口红花漾倾慕唇膏 #333-干枫叶红色",
+                "text": "238"
+            },
+            {
+                "id": "3",
+                "url": "//img11.360buyimg.com/mobilecms/s372x372_jfs/t1/74863/5/14777/142485/5dc3c6d2E01c3c284/25f3050d1944fff2.jpg!q70.dpg.webp",
+                "title": "阿玛尼（Emporio Armani)手表 皮质表带经典时尚休闲石英女士腕表 AR1911",
+                "text": "2540"
+            },
+            {
+                "id": "4",
+                "url": "//img11.360buyimg.com/mobilecms/s372x372_jfs/t1/89211/10/1463/294172/5dc01b01E2807e0bc/9454824273fd26cc.jpg!q70.dpg.webp",
+                "title": "美得乐 餐桌 大理石餐桌 现代简约轻奢北欧餐桌椅组合4人 6人简易餐厅家具 餐椅*2把 ",
+                "text": "1003"
+            },
+            {
+                "id": "5",
+                "url": "//img14.360buyimg.com/mobilecms/s372x372_jfs/t1/11332/13/12845/146038/5c94a7daEf6287a83/b99826f55ea69ced.jpg!q70.dpg.webp",
+                "title": "桂格（QUAKER）特调燕麦片日式抹茶味 燕麦喝出咖啡口感 下午茶早餐 168g（28克*6包 独立包装）",
+                "text": "17"
+            },
+            {
+                "id": "6",
+                "url": "//img14.360buyimg.com/mobilecms/s372x372_jfs/t1/49627/10/13301/122565/5da235c6E4ff739ff/3d334742fb2f5c87.jpg!q70.dpg.webp",
+                "title": "纤枝玲 2019秋季新款金丝绒睫毛拼接打底吊带背心 灰色 M      ",
+                "text": "88"
+            }
+        ],
+        "brand": [
+            {
+                "id": "1",
+                "url": "//img13.360buyimg.com/mobilecms/s360x360_jfs/t1/80364/7/10392/69110/5d7cb1f5Ed3f82f51/35c776ae0dd692fc.jpg!q70.dpg.webp",
+                "title": "Apple 苹果11 iPhone 11 手机 (A2223) 绿色 全网通 64GB",
+                "text": "9.9"
+            },
+            {
+                "id": "2",
+                "url": "//img12.360buyimg.com/mobilecms/s360x360_jfs/t1/86971/37/1995/201280/5dc81166E0595efdf/6eb1d3d90ea765bb.jpg!q70.dpg.webp",
+                "title": "Apple iPhone 11",
+                "text": "8.9"
+            },
+            {
+                "id": "3",
+                "url": "//img11.360buyimg.com/mobilecms/s360x360_jfs/t1/57918/26/15425/168066/5dc81b22Eeacb6e34/32e62b455c51a33d.jpg!q70.dpg.webp",
+                "title": "Apple iPhone 11 Pro (A2217) 64GB 暗夜绿色 移动联通电信4G手机 双卡双待",
+                "text": "倒贴"
+            },
+            {
+                "id": "4",
+                "url": "//img14.360buyimg.com/mobilecms/s360x360_jfs/t1/63974/22/14942/396806/5dc79338E6e420a4f/d7da44bd39a2c96f.jpg!q70.dpg.webp",
+                "title": "华为 HUAWEI Mate 30 Pro 5G 麒麟990 OLED环幕屏双4000万徕卡电影四摄8GB+256GB亮黑色5G全网通版",
+                "text": "6899"
+            },
+            {
+                "id": "5",
+                "url": "//img14.360buyimg.com/mobilecms/s360x360_jfs/t1/90785/38/1921/303363/5dc7803dEe5771bb8/189451a40468adcd.jpg!q70.dpg.webp",
+                "title": "华为（HUAWEI） P30",
+                "text": "3788"
+            }
+        ],
+        "Trend": [
+            {
+                "id": "1",
+                "url": "//img13.360buyimg.com/mobilecms/s360x360_jfs/t1/61654/17/14539/210403/5dc02db9Ebd073f5b/53cc2353f011fae8.jpg!q70.dpg.webp",
+                "title": "以纯线上品牌A21秋季2019男装 纯色圆领卫衣男潮流男生休闲长袖上衣服男士套衫R493132010 黑色 175/88A/L",
+                "text": "89.9"
+            },
+            {
+                "id": "2",
+                "url": "//img10.360buyimg.com/mobilecms/s360x360_jfs/t1/80908/35/14487/205108/5dbfa931Ed1e72944/1d697b18cb8818f0.jpg!q70.dpg.webp",
+                "title": "羊大丽说 连帽卫衣男士19年秋冬卡通印花新款棉质加绒加厚保暖运动外套 加绒款黑色拳击猫字母 L(170建议115斤内",
+                "text": "89.9"
+            },
+            {
+                "id": "3",
+                "url": "//img13.360buyimg.com/mobilecms/s360x360_jfs/t1/73719/5/14346/209160/5dbd001aE2d8c08c4/83e1a51c3e79fbca.jpg!q70.dpg.webp",
+                "title": "花花公子卫衣男装连帽2019秋冬季新品韩版潮牌休闲印花套头号青年学生加绒外套 白色 XL  ",
+                "text": "89.9"
+            },
+            {
+                "id": "4",
+                "url": "//img13.360buyimg.com/mobilecms/s360x360_jfs/t1/83218/27/15010/236304/5dc837d3Eade75e5f/3503692fbbfb6ffb.jpg!q70.dpg.webp",
+                "title": "以纯线上品牌A21秋季2019新品 圆领套头卫衣男生春秋款 韩版潮人长袖卫衣R493132015 宝蓝 175/88A/L  ",
+                "text": "89.9"
+            },
+            {
+                "id": "5",
+                "url": "//img10.360buyimg.com/mobilecms/s372x372_jfs/t1/50333/2/13436/324965/5da1dbecEf87aeeb9/23027adc88252026.jpg!q70.dpg.webp",
+                "title": "义婕秋季新款韩版宽松大码毛针织衫女士贴布毛衣女套头百搭时尚打底衫ＧＴ2052-2643 粉色 均码                              ",
+                "text": "69"
+            }
+        ]
+    }
+}

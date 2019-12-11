@@ -1,0 +1,296 @@
+{
+    "data": [{
+            "name": {
+                "text": "热门分类"
+            },
+            "ul": [{
+                    "id": "1",
+                    "url": "//img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+                    "title": "手机"
+                },
+                {
+                    "id": "2",
+                    "url": "//img30.360buyimg.com/focus/s140x140_jfs/t1/21233/40/7634/13890/5c6d039bE8a65d667/aef9581abcc85725.png",
+                    "title": "耳机"
+                },
+                {
+                    "id": "3",
+                    "url": "//img30.360buyimg.com/focus/s140x140_jfs/t1/1446/14/631/8500/5b9237e5E0d1f9e16/b1a627b92323b5ed.png",
+                    "title": "华为"
+                },
+                {
+                    "id": "4",
+                    "url": "//img30.360buyimg.com/focus/s140x140_jfs/t1/19730/14/9859/10199/5c8225eeE5e925911/054ccd7992f86199.png",
+                    "title": "口红"
+                },
+                {
+                    "id": "5",
+                    "url": "//img11.360buyimg.com/focus/s140x140_jfs/t1/11731/9/10730/9518/5c822298Eb50b3275/33f88663e1c0284e.png",
+                    "title": "保温杯"
+                },
+                {
+                    "id": "6",
+                    "url": "//img11.360buyimg.com/focus/s140x140_jfs/t1/30718/32/2643/9923/5c6d03ecEabd2d664/aaee556800519e1f.png",
+                    "title": "三只松鼠"
+                },
+                {
+                    "id": "7",
+                    "url": "//img10.360buyimg.com/focus/s140x140_jfs/t1/21353/14/7486/17896/5c6d03c0Eb9c58d49/9210736682f59e39.png",
+                    "title": "微波炉"
+                },
+                {
+                    "id": "8",
+                    "url": "//img20.360buyimg.com/focus/s140x140_jfs/t1/19562/14/9878/32183/5c8225f6E7c332db7/c886e52dc05b9ae4.png",
+                    "title": "卫生巾"
+                },
+                {
+                    "id": "9",
+                    "url": "//img30.360buyimg.com/focus/s140x140_jfs/t1/19730/14/9859/10199/5c8225eeE5e925911/054ccd7992f86199.png",
+                    "title": "口红"
+                },
+                {
+                    "id": "10",
+                    "url": "//img11.360buyimg.com/focus/s140x140_jfs/t1/11731/9/10730/9518/5c822298Eb50b3275/33f88663e1c0284e.png",
+                    "title": "保温杯"
+                },
+                {
+                    "id": "11",
+                    "url": "//img11.360buyimg.com/focus/s140x140_jfs/t1/30718/32/2643/9923/5c6d03ecEabd2d664/aaee556800519e1f.png",
+                    "title": "三只松鼠"
+                },
+                {
+                    "id": "12",
+                    "url": "//img10.360buyimg.com/focus/s140x140_jfs/t1/21353/14/7486/17896/5c6d03c0Eb9c58d49/9210736682f59e39.png",
+                    "title": "微波炉"
+                },
+                {
+                    "id": "13",
+                    "url": "//img20.360buyimg.com/focus/s140x140_jfs/t1/19562/14/9878/32183/5c8225f6E7c332db7/c886e52dc05b9ae4.png",
+                    "title": "卫生巾"
+                },
+                {
+                    "id": "14",
+                    "url": "//img30.360buyimg.com/focus/s140x140_jfs/t1/19730/14/9859/10199/5c8225eeE5e925911/054ccd7992f86199.png",
+                    "title": "口红"
+                },
+                {
+                    "id": "15",
+                    "url": "//img11.360buyimg.com/focus/s140x140_jfs/t1/11731/9/10730/9518/5c822298Eb50b3275/33f88663e1c0284e.png",
+                    "title": "保温杯"
+                },
+                {
+                    "url": "//img11.360buyimg.com/focus/s140x140_jfs/t1/30718/32/2643/9923/5c6d03ecEabd2d664/aaee556800519e1f.png",
+                    "title": "三只松鼠"
+                },
+                {
+                    "url": "//img10.360buyimg.com/focus/s140x140_jfs/t1/21353/14/7486/17896/5c6d03c0Eb9c58d49/9210736682f59e39.png",
+                    "title": "微波炉"
+                }
+            ]
+        },
+        {
+            "name": {
+                "text": "热门品牌"
+            },
+            "ul": [{
+                    "url": "//img30.360buyimg.com/focus/s140x140_jfs/t13411/188/926813276/3945/a4f47292/5a1692eeN105a64b4.png",
+                    "title": "手机"
+                },
+                {
+                    "url": "//img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+                    "title": "手机"
+                },
+                {
+                    "url": "//img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+                    "title": "手机"
+                },
+                {
+                    "url": "//img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+                    "title": "手机"
+                },
+                {
+                    "url": "//img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+                    "title": "手机"
+                },
+                {
+                    "url": "//img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+                    "title": "手机"
+                },
+                {
+                    "url": "//img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+                    "title": "手机"
+                }
+            ]
+        },
+        {
+            "name": {
+                "text": "厨房小电"
+            },
+            "ul": [{
+                    "url": "//img30.360buyimg.com/focus/s140x140_jfs/t12559/262/969294499/3436/8c0ce9c9/5a17f1d2N8078d5e6.jpg",
+                    "title": "手机"
+                },
+                {
+                    "url": "//img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+                    "title": "手机"
+                },
+                {
+                    "url": "//img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+                    "title": "手机"
+                },
+                {
+                    "url": "//img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+                    "title": "手机"
+                },
+                {
+                    "url": "//img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+                    "title": "手机"
+                },
+                {
+                    "url": "//img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+                    "title": "手机"
+                },
+                {
+                    "url": "//img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+                    "title": "手机"
+                }
+            ]
+        },
+        {
+            "name": {
+                "text": "热门分类"
+            },
+            "ul": [{
+                    "url": "//img13.360buyimg.com/focus/s140x140_jfs/t11071/195/2462134264/9117/cd0688bf/5a17ba79N18b9f3d4.png",
+                    "title": "手机"
+                },
+                {
+                    "url": "//img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+                    "title": "手机"
+                },
+                {
+                    "url": "//img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+                    "title": "手机"
+                },
+                {
+                    "url": "//img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+                    "title": "手机"
+                },
+                {
+                    "url": "//img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+                    "title": "手机"
+                },
+                {
+                    "url": "//img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+                    "title": "手机"
+                },
+                {
+                    "url": "//img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+                    "title": "手机"
+                }
+            ]
+        },
+        {
+            "name": {
+                "text": "当季主推"
+            },
+            "ul": [{
+                    "url": "//img10.360buyimg.com/focus/s140x140_jfs/t19453/253/2549990863/33320/e0515773/5afd3d5cN85837566.jpg",
+                    "title": "手机"
+                },
+                {
+                    "url": "//img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+                    "title": "手机"
+                },
+                {
+                    "url": "//img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+                    "title": "手机"
+                },
+                {
+                    "url": "//img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+                    "title": "手机"
+                },
+                {
+                    "url": "//img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+                    "title": "手机"
+                },
+                {
+                    "url": "//img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+                    "title": "手机"
+                },
+                {
+                    "url": "//img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+                    "title": "手机"
+                }
+            ]
+        },
+        {
+            "name": {
+                "text": "畅销推荐"
+            },
+            "ul": [{
+                    "url": "//img11.360buyimg.com/focus/s140x140_jfs/t21343/109/200166835/32189/655b48ef/5b03c73fN69e0c2b7.jpg",
+                    "title": "手机"
+                },
+                {
+                    "url": "//img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+                    "title": "手机"
+                },
+                {
+                    "url": "//img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+                    "title": "手机"
+                },
+                {
+                    "url": "//img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+                    "title": "手机"
+                },
+                {
+                    "url": "//img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+                    "title": "手机"
+                },
+                {
+                    "url": "//img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+                    "title": "手机"
+                },
+                {
+                    "url": "//img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+                    "title": "手机"
+                }
+            ]
+        },
+        {
+            "name": {
+                "text": "热卖推荐"
+            },
+            "ul": [{
+                    "url": "//img30.360buyimg.com/focus/s140x140_jfs/t13411/188/926813276/3945/a4f47292/5a1692eeN105a64b4.png",
+                    "title": "手机"
+                },
+                {
+                    "url": "//img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+                    "title": "手机"
+                },
+                {
+                    "url": "//img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+                    "title": "手机"
+                },
+                {
+                    "url": "//img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+                    "title": "手机"
+                },
+                {
+                    "url": "//img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+                    "title": "手机"
+                },
+                {
+                    "url": "//img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+                    "title": "手机"
+                },
+                {
+                    "url": "//img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+                    "title": "手机"
+                }
+            ]
+        }
+    ]
+}
