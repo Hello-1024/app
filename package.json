@@ -14,7 +14,7 @@
     "core-js": "^3.3.2",
     "lib-flexible": "^0.3.2",
     "moment": "^2.24.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "postcss-px2rem": "^0.3.0",
     "sass-loader": "^8.0.0",
     "sockjs-client": "^1.4.0",
